@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Symposium Format Registration And Programme
+title: Symposium Format Registration and Programme
 ---
 
 **Our goal is to  enable scientific discussion and networking but low-entry cost for scientists from developing worlds.**

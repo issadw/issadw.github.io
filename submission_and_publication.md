@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission And Publication
+title: Submission and Publication
 ---
 
 The symposium calls for working papers. Authors should submit an extended abstract (maximum 3 pages in Springer style) by the deadline through easychair.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the [Vietnam Journal of Computer Science](http://link.springer.com/journal/40595). This issue will publish 5-6 papers.  The editors of this special issue will be **Hong-Linh Truong, NCN and Aditya Ghose.** 
