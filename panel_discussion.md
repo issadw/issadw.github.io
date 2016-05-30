@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discussion
+title: Panel Discussion
 ---
 
 <p class="message">
