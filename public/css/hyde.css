@@ -248,3 +248,31 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.top .masthead nav {
+  float: right;
+  margin-right: 40px; // @TODO: Vertically middle align
+  margin-left: 40px;
+  font-size: 20px;
+  /*background-color: #dbdbdb;*/
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 18px;
+  }
+}
+
+.top .masthead nav a {
+  margin-right : 20px;
+  margin-left: 20px;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 1px;
+
+  @include mobile {
+    margin: 0 10px;
+    color: $blue;
+  }
+}
