@@ -4,4 +4,4 @@ title: Sponsors
 ---
 
 1. [CÔNG TY CỔ PHẦN PHẦN MỀM VIỄN THÔNG MIỀN NAM](https://southtelecom.vn/)
-2. [Công ty Cổ Phần Phát Triển Công Nghệ Viễn Thông Tin Học Sun Việt](http://svtech.com.vn/)
+2. [CÔNG TY CỔ PHẦN PHÁT TRIỂN CÔNG NGHỆ VIỄN THÔNG TIN HỌC SUN VIỆT](http://svtech.com.vn/)
