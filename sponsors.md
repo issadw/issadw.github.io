@@ -16,6 +16,6 @@ title: Sponsors
         <p>CÔNG TY CỔ PHẦN PHÁT TRIỂN CÔNG NGHỆ VIỄN THÔNG TIN HỌC SUN VIỆT</p>
     </div>
     <div class="row">
-        <a href="http://svtech.com.vn/" target="_blank"><img src="https://southtelecom.vn/wp-content/uploads/2013/06/logo.png"></a>
+        <a href="http://svtech.com.vn/" target="_blank"><img src="http://www.svtech.com.vn/data/image/Hinhtrinh/SEO/SVtech_logo_tagline-01.jpg"></a>
     </div>
 </div>
