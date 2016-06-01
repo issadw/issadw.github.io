@@ -6,14 +6,6 @@ title: Sponsors
 <table class="sponsors" border="0" cellpadding="0" cellspacing="0" align="center" valign="center">
     <tr>
         <td>
-            CÔNG TY CỔ PHẦN PHẦN MỀM VIỄN THÔNG MIỀN NAM
-        </td>
-        <td>
-            CÔNG TY CỔ PHẦN PHÁT TRIỂN CÔNG NGHỆ VIỄN THÔNG TIN HỌC SUN VIỆT
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://southtelecom.vn/" target="_blank"><img src="https://southtelecom.vn/wp-content/uploads/2013/06/logo.png"></a>
         </td>
         <td>

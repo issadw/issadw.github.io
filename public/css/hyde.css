@@ -285,6 +285,7 @@ a.sidebar-nav-item:focus {
 
 .sponsors tr td {
     text-align: center;
+    vertical-align: middle;
     padding: 15px;
     width: 50%;
     border:none;
