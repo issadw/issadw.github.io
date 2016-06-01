@@ -279,10 +279,10 @@ a.sidebar-nav-item:focus {
 
 .sponsors {
     width:100%;
-    border: 0px;
+    border: none;
 }
 
-.sponsors th td {
+.sponsors tr td {
     text-align: center;
     padding: 15px;
     width: 50%;
