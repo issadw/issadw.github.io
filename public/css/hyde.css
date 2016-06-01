@@ -276,3 +276,13 @@ a.sidebar-nav-item:focus {
     color: $blue;
   }
 }
+
+.sponsors {
+    width:100%;
+    border: 0px;
+}
+
+.sponsors th td {
+    text-align: center;
+    padding: 15px;
+}
