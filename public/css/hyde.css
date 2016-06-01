@@ -280,6 +280,7 @@ a.sidebar-nav-item:focus {
 .sponsors {
     width:100%;
     border: none;
+    border-collapse:collapse;
 }
 
 .sponsors tr td {
