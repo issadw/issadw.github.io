@@ -3,7 +3,7 @@ layout: page
 title: Sponsors
 ---
 
-<table class="sponsors" border="0" cellpadding="0" cellspacing="0">
+<table class="sponsors" border="0" cellpadding="0" cellspacing="0" align="center" valign="center">
     <tr>
         <td>
             CÔNG TY CỔ PHẦN PHẦN MỀM VIỄN THÔNG MIỀN NAM
