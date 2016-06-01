@@ -282,8 +282,13 @@ a.sidebar-nav-item:focus {
     border-collapse:collapse;
 }
 
+.sponsors tr {
+    border:none;
+}
+
 .sponsors tr td {
     text-align: center;
     padding: 15px;
     width: 50%;
+    border:none;
 }
