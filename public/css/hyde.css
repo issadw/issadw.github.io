@@ -279,11 +279,8 @@ a.sidebar-nav-item:focus {
 
 .sponsors {
     width:100%;
+    border: 0px;
     border-collapse:collapse;
-}
-
-.sponsors tr {
-    border:none;
 }
 
 .sponsors tr td {
