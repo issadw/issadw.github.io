@@ -40,13 +40,6 @@ title: Introduction
   </div>
 </div>
 
-<div class="w3-display-container mySlides">
-  <img src="http://lumi.vn/Cms_Data/Contents/Lumi/Media/Images/Internet-of-thing.png" style="width:100%">
-  <div class="w3-display-topright w3-large w3-container w3-padding-16 w3-black">
-    Internet of Things 02
-  </div>
-</div>
-
 <a class="w3-btn-floating w3-hover-dark-grey" style="position:absolute;top:45%;left:0" onclick="plusDivs(-1)">❮</a>
 <a class="w3-btn-floating w3-hover-dark-grey" style="position:absolute;top:45%;right:0" onclick="plusDivs(1)">❯</a>
 
