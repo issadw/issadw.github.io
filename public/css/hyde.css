@@ -76,7 +76,7 @@ html {
 }
 
 /* About section */
-.sidebar-about h1 {
+ h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
@@ -85,6 +85,7 @@ html {
 
 .side-about h1 a:hover {
   color: #3890e7;
+  text-decoration: none;
 }
 
 /* Sidebar nav */
