@@ -84,8 +84,8 @@ html {
 }
 
 .sidebar-about h1 a:hover {
-  color: #3890e7;
   text-decoration: none;
+  font-size: 3.5rem;
 }
 
 /* Sidebar nav */
