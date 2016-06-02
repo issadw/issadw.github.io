@@ -103,7 +103,7 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 * Hong-Linh Truong (chair), TU Wien, Austria
 * Aditya Ghose, University of Wollongong, Australia
-* Nam Thoai, Ho Chi Minh City University of Technology
+* Nam Thoai, Ho Chi Minh City University of Technology, Vietnam
 
 ### General Chair
 
@@ -118,22 +118,18 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### Programming committee
 
-* Hoang-Huu Hanh, Hue University
-* Tran-Vu Pham, Ho Chi Minh City University of Technology
-* Minh-Quang Tran, Ho Chi Minh City University of Technology
+* Hoang-Huu Hanh, Hue University, Vietnam
+* Tran-Vu Pham, Ho Chi Minh City University of Technology, Vietnam
+* Minh-Quang Tran, Ho Chi Minh City University of Technology, Vietnam
 * Khanh-Hoa Dam, University of Wollongong
 * Phung Phu, University of Dayton, USA
 * Tram Truong-Huu, National University Singapore , Singapore
 * Alexander Norta, Tallinn Technology University, Estonia
+* Huu-Duc Nguyen, Hanoi University of Science and Technology, Vietnam
 
 ### Publicity and industry Liaison
 
 ### Local organization
-
-### Sponsors
-
-* Hanoi University of Science and Technology
-* Industries
 
 ### Webmaster
 
