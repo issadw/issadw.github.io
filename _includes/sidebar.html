@@ -16,7 +16,7 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-      
+
       <!-- {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,10 +25,14 @@
           {% endif %}
         {% endif %}
       {% endfor %} -->
-      <a class="sidebar-nav-item{% if page.url == '/scientific_objectives/') %} active{% endif %}" href="{{ side.baseurl }}/scientific_objectives">Scientific Objectives</a>
+
+      <!-- Prev sidebar -->
+      <!-- <a class="sidebar-nav-item{% if page.url == '/scientific_objectives/') %} active{% endif %}" href="{{ side.baseurl }}/scientific_objectives">Scientific Objectives</a>
       <a class="sidebar-nav-item{% if page.url == '/submission_and_publication/') %} active{% endif %}" href="{{ side.baseurl }}/submission_and_publication">Submission and Publication</a>
       <a class="sidebar-nav-item{% if page.url == '/registration/') %} active{% endif %}" href="{{ side.baseurl }}/registration">Registration</a>
-      <a class="sidebar-nav-item{% if page.url == '/organization/') %} active{% endif %}" href="{{ side.baseurl }}/organization">Organization</a>
+      <a class="sidebar-nav-item{% if page.url == '/organization/') %} active{% endif %}" href="{{ side.baseurl }}/organization">Organization</a> -->
+
+
       <a class="sidebar-nav-item{% if page.url == '/technical_program/') %} active{% endif %}" href="{{ side.baseurl }}/technical_program">Technical Program</a>
       <span class="sidebar-nav-item">Organized by <a href="http://soict.hust.edu.vn" target="_blank">HUST</a> and <a href="http://vitalconet.github.io" target="_blank">VitalConet</a></span>
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
