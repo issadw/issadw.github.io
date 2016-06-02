@@ -125,12 +125,13 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### Programming committee
 
-* Hoang-Huu Hanh
-* Tran-Vu Pham
-* Minh-Quang Tran
+* Hoang-Huu Hanh, Hue University
+* Tran-Vu Pham, Ho Chi Minh City University of Technology
+* Minh-Quang Tran, Ho Chi Minh City University of Technology
 * Khanh-Hoa Dam, University of Wollongong
 * Phung Phu, University of Dayton, USA
 * Tram Truong-Huu, NUS, Singapore
+* Alexander Norta, Tallinn Technology University, Estonia
 
 ### Publicity and industry Liaison
 
@@ -143,4 +144,4 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### Webmaster
 
-* Kien-Tuan Nguyen, HUST, Vietnam
+* Tuan-Kien Nguyen, HUST, Vietnam
