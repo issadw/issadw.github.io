@@ -95,7 +95,7 @@ The first symposium will provide **free registration**. Lunch will be provided f
 
 The symposium calls for working papers. Authors should submit an extended abstract (maximum 3 pages in Springer style) by the deadline through easychair.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the [Vietnam Journal of Computer Science](http://link.springer.com/journal/40595). This issue will publish 5-6 papers.  The editors of this special issue will be **Hong-Linh Truong, Nanjangud Narendra, and Aditya Ghose.**
 
-Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551.vxfp3xhN2X3zWPE4%3Btimeout%3D1)
+Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38736430.8paxi8Kzw8Hmha0j)
 
 ## Organization
 
@@ -126,6 +126,7 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 * Tram Truong-Huu, National University Singapore , Singapore
 * Alexander Norta, Tallinn Technology University, Estonia
 * Huu-Duc Nguyen, Hanoi University of Science and Technology, Vietnam
+* Huynh Xuan Hiep, Can Tho University, Vietnam
 
 ### Publicity and industry Liaison
 
