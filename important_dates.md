@@ -3,8 +3,6 @@ layout: page
 title: Important Dates
 ---
 
-## Tentative schedule:
-
 * Extended abstraction submission: `30 June, 2016`
 * Accepted notification: `17 July, 2016`
 * Symposium: `4-5 Aug 2016`

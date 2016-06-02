@@ -143,4 +143,4 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### Webmaster
 
-* Kien Tuan Nguyen, HUST, Vietnam
+* Kien-Tuan Nguyen, HUST, Vietnam
