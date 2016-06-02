@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-<i class="fa fa-home fa-lg"></i><b> Location:</b> Hanoi University of Science and Technology (HUST), Hanoi.
+<i class="fa fa-home fa-lg"></i><b> Location:</b> Hanoi University of Science and Technology (Hanoi University of Science and Technology), Hanoi.
 
 <i class="fa fa-clock-o fa-lg"></i><b> Time:</b>  4-5 August 2016
 
@@ -107,14 +107,14 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### General Chair
 
-* Tuyet Trinh Vu, HUST, Vietnam
+* Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
 * Aditya Ghose, University of Wollongong, Australia
 
 ### Program chairs
 
-* Binh-Minh Nguyen, HUST, Vietnam
+* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
 * Nanjangud Narendra, Ericsson Research, Bangalore, India
-* Tien-Dung Cao, TTU, Vietnam
+* Tien-Dung Cao, Tan Tao University, Vietnam
 
 ### Programming committee
 
@@ -123,7 +123,7 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 * Minh-Quang Tran, Ho Chi Minh City University of Technology
 * Khanh-Hoa Dam, University of Wollongong
 * Phung Phu, University of Dayton, USA
-* Tram Truong-Huu, NUS, Singapore
+* Tram Truong-Huu, National University Singapore , Singapore
 * Alexander Norta, Tallinn Technology University, Estonia
 
 ### Publicity and industry Liaison
@@ -132,9 +132,9 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi?key=38702551
 
 ### Sponsors
 
-* HUST
+* Hanoi University of Science and Technology
 * Industries
 
 ### Webmaster
 
-* Tuan-Kien Nguyen, HUST, Vietnam
+* Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam

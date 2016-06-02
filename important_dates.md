@@ -10,4 +10,4 @@ title: Important Dates
 * First Notification: `30 November, 2016` (accepted, minor or major accepted, rejected).
 * Second version: `30 December, 2016`
 * Final Notification: `31 January, 2017`
-* Publication: `Feb-Mar,? 2017`
+* Publication: `Feb-Mar, 2017`
