@@ -127,6 +127,7 @@ Submission via [EasyChair](https://easychair.org/account/signin.cgi)
 * Alexander Norta, Tallinn Technology University, Estonia
 * Huu-Duc Nguyen, Hanoi University of Science and Technology, Vietnam
 * Huynh Xuan Hiep, Can Tho University, Vietnam
+* Khanh-Hoa Dam, University of Wollongong, Australia
 
 ### Publicity and industry Liaison
 
