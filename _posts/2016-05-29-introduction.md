@@ -116,7 +116,7 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 * Nanjangud Narendra, Ericsson Research, Bangalore, India
 * Tien-Dung Cao, Tan Tao University, Vietnam
 
-### Programming committee
+### Program committee
 
 * Hoang-Huu Hanh, Hue University, Vietnam
 * Tran-Vu Pham, Ho Chi Minh City University of Technology, Vietnam
