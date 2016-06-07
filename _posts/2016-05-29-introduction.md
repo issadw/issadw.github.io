@@ -127,7 +127,7 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 * Huu-Duc Nguyen, Hanoi University of Science and Technology, Vietnam
 * Huynh Xuan Hiep, Can Tho University, Vietnam
 * Khanh-Hoa Dam, University of Wollongong, Australia
-* Thanh Binh Nguyen, Danang University, Vietnam
+* Thanh-Binh Nguyen, Danang University, Vietnam
 * Ha Huy Cuong Nguyen, Quang Nam University, Vietnam
 
 ### Publicity and industry Liaison
