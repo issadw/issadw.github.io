@@ -5,6 +5,7 @@ title: Technical Program
 
 ## Keynote Speaker
 
+
 <table class="tg">
   <tr>
     <th>Order</th>
@@ -23,13 +24,17 @@ title: Technical Program
   </tr>
 </table>
 
+
 ## Scientific Track
+
 
 <p class="message">
     To be updated...
 </p>
 
+
 ## Industrial and Demo Track
+
 
 <table class="tg">
   <tr>
@@ -54,6 +59,7 @@ title: Technical Program
 
 ## Panel Discussion
 
+
 <table class="tg">
   <tr>
     <th>Order</th>
@@ -66,14 +72,14 @@ title: Technical Program
           IoT Services for Critical Problems in Vietnam
       </p>
       <p class="author">
-          Tien-Dung Cao, Tan Tao University, Vietnam</b>
-          Huu-Hanh Hoang, Hue University, Vietnam</b>
-          Hiep Xuan Huynh, Cantho University, Vietnam</b>
-          Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</b>
-          Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</b>
-          Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</b>
+          Tien-Dung Cao, Tan Tao University, Vietnam</br>
+          Huu-Hanh Hoang, Hue University, Vietnam</br>
+          Hiep Xuan Huynh, Cantho University, Vietnam</br>
+          Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</br>
+          Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</br>
+          Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</br>
           The-Vu Tran, Da Nang University of Science and Technology, Vietnam</br>
-          Hong-Linh Truong, TU Wien, Austria</b>
+          Hong-Linh Truong, TU Wien, Austria</br>
       </p>
     </td>
   </tr>
