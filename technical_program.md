@@ -8,7 +8,7 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>       </th>
+    <th style="width: 20px;"></th>
     <th></th>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>       </th>
+    <th style="width: 20px;"></th>
     <th></th>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>       </th>
+    <th style="width: 20px;"></th>
     <th></th>
   </tr>
   <tr>
