@@ -70,16 +70,16 @@ title: Technical Program
     <td>
       <div class="topic">
           IoT Services for Critical Problems in Vietnam
-      </p>
+      </div>
       <div class="author">
-          Tien-Dung Cao, Tan Tao University, Vietnam</br>
-          Huu-Hanh Hoang, Hue University, Vietnam</br>
-          Hiep Xuan Huynh, Cantho University, Vietnam</br>
-          Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</br>
-          Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</br>
-          Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</br>
-          The-Vu Tran, Da Nang University of Science and Technology, Vietnam</br>
-          Hong-Linh Truong, TU Wien, Austria</br>
+          <p>Tien-Dung Cao, Tan Tao University, Vietnam</p>
+          <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
+          <p>Hiep Xuan Huynh, Cantho University, Vietnam</p>
+          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>
+          <p>Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</p>
+          <p>Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</p>
+          <p>The-Vu Tran, Da Nang University of Science and Technology, Vietnam</p>
+          <p>Hong-Linh Truong, TU Wien, Austria</p>
       </div>
     </td>
   </tr>
