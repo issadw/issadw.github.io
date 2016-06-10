@@ -8,11 +8,11 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20%;"></th>
+    <th style="width: 10%;"></th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: left;">1</td>
+    <td class="num">1</td>
     <td>
       <div class="topic">
           On Service Engineering Analytics for IoT Clouds - Techniques and New Directions
@@ -38,11 +38,11 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20%;"></th>
+    <th style="width: 10%;"></th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: center;">1</td>
+    <td class="num">1</td>
     <td>
       <div class="topic">
           Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework)
@@ -62,11 +62,11 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20%;"></th>
+    <th style="width: 10%;"></th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: center;">1</td>
+    <td class="num">1</td>
     <td>
       <div class="topic">
           IoT Services for Critical Problems in Vietnam

@@ -332,6 +332,11 @@ a.sidebar-nav-item:focus {
   background-color:#d3d3d3;
 }
 
+.tg .num {
+  vertical-align: top;
+  text-align: left;
+}
+
 .tg .topic {
   font-size:20px;
   font-weight:bold;
