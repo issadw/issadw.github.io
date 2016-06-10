@@ -8,6 +8,10 @@ title: Technical Program
 
 <table class="tg">
   <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
     <td style="text-align: center;">1</td>
     <td>
       <div class="topic">
@@ -34,10 +38,10 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>
-      <td></td>
-      <td></td>
-    </th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
     <td style="text-align: center;">1</td>
     <td>
       <div class="topic">
@@ -57,6 +61,10 @@ title: Technical Program
 
 
 <table class="tg">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
   <tr>
     <td style="text-align: center;">1</td>
     <td>
