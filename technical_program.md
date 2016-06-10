@@ -7,12 +7,12 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th class="tg-title">Order</th>
-    <th class="tg-title">Content</th>
+    <th>Order</th>
+    <th>Content</th>
   </tr>
   <tr>
-    <td class="tg-content">1</td>
-    <td class="tg-content">
+    <td>1</td>
+    <td>
       <p class="title">
           Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework)
       </p>

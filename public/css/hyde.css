@@ -317,8 +317,9 @@ a.sidebar-nav-item:focus {
 }
 
 .tg th {
-  font-family:Arial, sans-serif;
-  font-size:14px;
+  font-family:Arial, Helvetica, sans-serif !important;;
+  text-align:center
+  font-size:20px;
   font-weight:normal;
   padding:10px 5px;
   border-style:solid;
@@ -326,29 +327,16 @@ a.sidebar-nav-item:focus {
   overflow:hidden;
   word-break:normal;
   border-color:#aabcfe;
-  color:#039;
   background-color:#b9c9fe;
 }
 
-.tg .tg-title {
-  font-weight:bold;
-  font-size:20px;
-  font-family:Arial, Helvetica, sans-serif !important;;
-  text-align:center
-}
-
-.tg .tg-content {
+.tg .title {
   font-family: Arial, Helvetica, sans-serif !important;
   font-size:18px;
-}
-
-.tg .tg-content .title {
-  font-family: Arial, Helvetica, sans-serif !important;
-  font-size:19px;
   font-weight:bold;
 }
 
-.tg .tg-content .author {
+.tg .author {
   font-family: Arial, Helvetica, sans-serif !important;
   font-size:18px;
   font-weight:italic;
