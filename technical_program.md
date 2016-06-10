@@ -77,11 +77,7 @@ title: Technical Program
           <p style="font-weight:bold;">Members</p>
           <p>Tien-Dung Cao, Tan Tao University, Vietnam</p>
           <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
-          <p>Tuyet-Trinh Vu,
-            <th>
-              <td></td>
-              <td></td>
-            </th>Hanoi University of Technology and Science, Vietnam</p>
+          <p>Tuyet-Trinh Vu,Hanoi University of Technology and Science, Vietnam</p>
           <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>\
     </td>
   </tr>
