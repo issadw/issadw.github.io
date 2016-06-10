@@ -300,23 +300,23 @@ a.sidebar-nav-item:focus {
 .tg  {
   border-collapse:collapse;
   border-spacing:0;
-  border-color:#ccc;
+  border-color:#aabcfe;
 }
 
-.tg td{
+.tg td {
   font-family:Arial, sans-serif;
   font-size:14px;
   padding:10px 5px;
-  border-style:solid
+  border-style:solid;
   border-width:1px;
   overflow:hidden;
   word-break:normal;
-  border-color:#ccc;
-  color:#333;
-  background-color:#fff;
+  border-color:#aabcfe;
+  color:#669;
+  background-color:#e8edff;
 }
 
-.tg th{
+.tg th {
   font-family:Arial, sans-serif;
   font-size:14px;
   font-weight:normal;
@@ -325,19 +325,32 @@ a.sidebar-nav-item:focus {
   border-width:1px;
   overflow:hidden;
   word-break:normal;
-  border-color:#ccc;
-  color:#333;
-  background-color:#f0f0f0;
+  border-color:#aabcfe;
+  color:#039;
+  background-color:#b9c9fe;
 }
 
-.tg .tg-6iqf{
-  font-size:16px;
+.tg .tg-title {
+  font-weight:bold;
+  font-size:20px;
   font-family:Arial, Helvetica, sans-serif !important;;
   text-align:center
 }
 
-.tg .tg-gk0q{
-  background-color:#f9f9f9;
-  font-size:16px;
-  font-family:Arial, Helvetica, sans-serif !important;
+.tg .tg-content {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size:18px;
 }
+
+.tg .tg-content .title {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size:19px;
+  font-weight:bold;
+}
+
+.tg .tg-content .author {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size:18px;
+  font-weight:italic;
+}
+
