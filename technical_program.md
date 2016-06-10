@@ -3,7 +3,7 @@ layout: page
 title: Technical Program
 ---
 
-## Demos
+## Keynote Speaker
 
 <table class="tg">
   <tr>
@@ -11,9 +11,35 @@ title: Technical Program
     <th>Content</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td style="text-align: center;">1</td>
     <td>
-      <p class="title">
+      <p class="topic">
+          On Service Engineering Analytics for IoT Clouds -- Techniques and New Directions
+      </p>
+      <p class="author">
+          Hong-Linh Truong, TU Wien, Austria
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Scientific Track
+
+<p class="message">
+    To be updated...
+</p>
+
+## Industrial and Demo Track
+
+<table class="tg">
+  <tr>
+    <th>Order</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td>
+      <p class="topic">
           Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework)
       </p>
       <p class="author">
@@ -27,5 +53,30 @@ title: Technical Program
 </table>
 
 ## Panel Discussion
+
+<table class="tg">
+  <tr>
+    <th>Order</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td>
+      <p class="topic">
+          IoT Services for Critical Problems in Vietnam
+      </p>
+      <p class="author">
+          Tien-Dung Cao, Tan Tao University, Vietnam</b>
+          Huu-Hanh Hoang, Hue University, Vietnam</b>
+          Hiep Xuan Huynh, Cantho University, Vietnam</b>
+          Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</b>
+          Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</b>
+          Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</b>
+          The-Vu Tran, Da Nang University of Science and Technology, Vietnam</br>
+          Hong-Linh Truong, TU Wien, Austria</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
 

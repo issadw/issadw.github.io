@@ -327,7 +327,7 @@ a.sidebar-nav-item:focus {
   background-color:#d3d3d3;
 }
 
-.tg .title {
+.tg .topic {
   font-weight:bold;
 }
 
@@ -335,3 +335,6 @@ a.sidebar-nav-item:focus {
   font-style:italic;
 }
 
+.tg .abstract {
+  font-size:16px;
+}
