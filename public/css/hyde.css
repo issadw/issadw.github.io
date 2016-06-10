@@ -261,7 +261,7 @@ a.sidebar-nav-item:focus {
   margin-right: 40px; // @TODO: Vertically middle align
   margin-left: 40px;
   font-size: 25px;
-  /*background-color: #dbdbdb;*/
+  background-color: #ffffff;
 
   @include mobile {
     float: none;
