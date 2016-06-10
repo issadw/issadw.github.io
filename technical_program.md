@@ -8,17 +8,13 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>Order</th>
-    <th>Content</th>
-  </tr>
-  <tr>
     <td style="text-align: center;">1</td>
     <td>
       <div class="topic">
           On Service Engineering Analytics for IoT Clouds -- Techniques and New Directions
       </div>
       <div class="author">
-          Hong-Linh Truong, TU Wien, Austria
+          Hong-Linh Truong, Distributed Systems Group TU Wien, Austria
       </div>
     </td>
   </tr>
@@ -37,10 +33,6 @@ title: Technical Program
 
 
 <table class="tg">
-  <tr>
-    <th>Order</th>
-    <th>Content</th>
-  </tr>
   <tr>
     <td style="text-align: center;">1</td>
     <td>
@@ -62,25 +54,19 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th>Order</th>
-    <th>Content</th>
-  </tr>
-  <tr>
     <td style="text-align: center;">1</td>
     <td>
       <div class="topic">
           IoT Services for Critical Problems in Vietnam
       </div>
       <div class="author">
+          <p style="font-weight:bold;">Moderators</p>
+          <p>Hong-Linh Truong, TU Wien, Austria</p>
+          <p style="font-weight:bold;">Members</p>
           <p>Tien-Dung Cao, Tan Tao University, Vietnam</p>
           <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
-          <p>Hiep Xuan Huynh, Cantho University, Vietnam</p>
-          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>
-          <p>Tran-Vu Pham,  Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</p>
-          <p>Quang Tran-Minh, Ho Chi Minh City University of Technology, VNU-HCM, Vietnam</p>
-          <p>The-Vu Tran, Da Nang University of Science and Technology, Vietnam</p>
-          <p>Hong-Linh Truong, TU Wien, Austria</p>
-      </div>
+          <p>Tuyet-Trinh Vu, Hanoi University of Technology and Science, Vietnam</p>
+          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>\
     </td>
   </tr>
 </table>
