@@ -8,14 +8,14 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20px;"></th>
+    <th style="width: 20%;"></th>
     <th></th>
   </tr>
   <tr>
-    <td style="text-align: center;">1</td>
+    <td style="text-align: left;">1</td>
     <td>
       <div class="topic">
-          On Service Engineering Analytics for IoT Clouds -- Techniques and New Directions
+          On Service Engineering Analytics for IoT Clouds - Techniques and New Directions
       </div>
       <div class="author">
           Hong-Linh Truong, Distributed Systems Group TU Wien, Austria
@@ -38,7 +38,7 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20px;"></th>
+    <th style="width: 20%;"></th>
     <th></th>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ title: Technical Program
 
 <table class="tg">
   <tr>
-    <th style="width: 20px;"></th>
+    <th style="width: 20%;"></th>
     <th></th>
   </tr>
   <tr>
@@ -72,13 +72,13 @@ title: Technical Program
           IoT Services for Critical Problems in Vietnam
       </div>
       <div class="author">
-          <p style="font-weight:bold;">Moderators</p>
+          <p style="font-weight:bold;">Moderator</p>
           <p>Hong-Linh Truong, TU Wien, Austria</p>
           <p style="font-weight:bold;">Members</p>
           <p>Tien-Dung Cao, Tan Tao University, Vietnam</p>
           <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
           <p>Tuyet-Trinh Vu,Hanoi University of Technology and Science, Vietnam</p>
-          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>\
+          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>
     </td>
   </tr>
 </table>
