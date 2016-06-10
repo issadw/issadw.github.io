@@ -305,7 +305,6 @@ a.sidebar-nav-item:focus {
 
 .tg td {
   font-family:Arial, sans-serif;
-  font-size:18px;
   font-style:normal;
   padding:10px 5px;
   border-style:solid;
@@ -328,6 +327,7 @@ a.sidebar-nav-item:focus {
 }
 
 .tg .topic {
+  font-size:20px;
   font-weight:bold;
   margin: 5px;
 }
@@ -335,6 +335,10 @@ a.sidebar-nav-item:focus {
 .tg .author {
   font-style:italic;
   margin: 5px;
+}
+
+.tg .author p {
+  margin: 2px;
 }
 
 .tg .abstract {
