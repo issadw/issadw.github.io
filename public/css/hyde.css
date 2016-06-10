@@ -255,10 +255,10 @@ a.sidebar-nav-item:focus {
 }
 
 .top .masthead nav {
-  float: left;
+  float: right;
   margin-right: 40px; // @TODO: Vertically middle align
   margin-left: 40px;
-  font-size: 20px;
+  font-size: 25px;
   /*background-color: #dbdbdb;*/
 
   @include mobile {
