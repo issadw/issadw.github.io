@@ -129,6 +129,7 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 * Khanh-Hoa Dam, University of Wollongong, Australia
 * Thanh-Binh Nguyen, Danang University, Vietnam
 * Ha Huy Cuong Nguyen, Quang Nam University, Vietnam
+* Lawrence Nderu, Jomo Kenyatta University of Agriculture and Technology, Kenya
 
 ### Publicity and industry Liaison
 
