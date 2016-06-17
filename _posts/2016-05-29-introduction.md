@@ -135,6 +135,9 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 
 ### Local organization
 
+* Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
+* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
+
 ### Webmaster
 
 * Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam

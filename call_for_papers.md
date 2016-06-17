@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call For Papers
+title: Call For Special Issue
 ---
 
 ## Special issue on IoT Systems, Services and Analytics for Developing Worlds for the Vietnam Journal of Computer Science
