@@ -38,6 +38,6 @@ This special issue will focus on novel systems, services and analytics centered 
 
 ### Guest Editors
 
-* Hong-Linh Truong (main contact), TU Wien, Austria – Email: truong@dsg.tuwien.ac.at
-* Aditya Ghose, University of Wollongong, Australia – Email: aditya@uow.edu.au
-* Nanjangud Narendra, Ericsson Research, Bangalore, India – Email: nanjangud.narendra@ericsson.com
+* Hong-Linh Truong (main contact), TU Wien, Austria – Email: <truong@dsg.tuwien.ac.at>
+* Aditya Ghose, University of Wollongong, Australia – Email: <aditya@uow.edu.au>
+* Nanjangud Narendra, Ericsson Research, Bangalore, India – Email: <nanjangud.narendra@ericsson.com>
