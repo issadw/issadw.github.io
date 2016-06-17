@@ -127,8 +127,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  /* padding-top:    4rem; */
+  /* padding-bottom: 4rem; */
 }
 
 @media (min-width: 48em) {
@@ -258,8 +258,8 @@ a.sidebar-nav-item:focus {
   /* float: right; */
   position: relative;
   /* left: 19rem; */
-  margin-right: 40px; // @TODO: Vertically middle align
-  margin-left: 40px;
+  margin-right: 30px; // @TODO: Vertically middle align
+  margin-left: 30px;
   font-size: 25px;
   background-color: #ffffff;
 
