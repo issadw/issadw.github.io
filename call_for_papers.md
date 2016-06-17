@@ -3,7 +3,7 @@ layout: page
 title: Call For Papers
 ---
 
-## Special issue on IoT Systems, Services and Analytics for Developing Worlds for the Vietnam Journal of Computer Science (Springer, http://www.springer.com/40595)
+## Special issue on IoT Systems, Services and Analytics for Developing Worlds for the Vietnam Journal of Computer Science
 
 ### Introduction
 
@@ -14,30 +14,30 @@ This special issue will focus on novel systems, services and analytics centered 
 
 ### Topic
 
-● IoT systems and infrastructures design for developing worlds
-● Design, monitoring and testing techniques for IoT systems in developing worlds.
-● Smart e-service models and techniques for developing worlds due to unwell-developed
+* IoT systems and infrastructures design for developing worlds
+* Design, monitoring and testing techniques for IoT systems in developing worlds.
+* Smart e-service models and techniques for developing worlds due to unwell-developed
 
 
 ### IT infrastructures.
 
-● IoT and data Analytics in developing worlds (considering highly unstable environments and cost issues).
-● Cross issues in IoT services and analytics, such as security, privacy, legal, data collection and sharing.
-● IoT applications in smart cities, smart agriculture, transportation, and healthcare in developing worlds.
-● IoT case studies and deployment experiences in developing worlds.
+* IoT and data Analytics in developing worlds (considering highly unstable environments and cost issues).
+* Cross issues in IoT services and analytics, such as security, privacy, legal, data collection and sharing.
+* IoT applications in smart cities, smart agriculture, transportation, and healthcare in developing worlds.
+* IoT case studies and deployment experiences in developing worlds.
 
 
 ### Important Dates
 
-● Full paper submission for special issue: `30 September 2016`
-● First Notification: `30 November, 2016` (accepted, minor or major revision, rejected)
-● Second version: `30 December, 2016` (for final decision)
-● Final Notification: `31 January, 2017`
-● Publication: `Feb-Mar, 2017`
+* Full paper submission for special issue: `30 September 2016`
+* First Notification: `30 November, 2016` (accepted, minor or major revision, rejected)
+* Second version: `30 December, 2016` (for final decision)
+* Final Notification: `31 January, 2017`
+* Publication: `Feb-Mar, 2017`
 
 
 ### Guest Editors
 
-● Hong-Linh Truong (main contact), TU Wien, Austria – Email: truong@dsg.tuwien.ac.at
-● Aditya Ghose, University of Wollongong, Australia – Email: aditya@uow.edu.au
-● Nanjangud Narendra, Ericsson Research, Bangalore, India – Email: nanjangud.narendra@ericsson.com
+* Hong-Linh Truong (main contact), TU Wien, Austria – Email: truong@dsg.tuwien.ac.at
+* Aditya Ghose, University of Wollongong, Australia – Email: aditya@uow.edu.au
+* Nanjangud Narendra, Ericsson Research, Bangalore, India – Email: nanjangud.narendra@ericsson.com
