@@ -93,7 +93,7 @@ The first symposium will provide **free registration**. Lunch will be provided f
 
 ## Submission and Publication
 
-The symposium calls for working papers. Authors should submit an extended abstract (maximum 3 pages in Springer style) by the deadline through easychair.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the [Vietnam Journal of Computer Science](http://link.springer.com/journal/40595). This issue will publish 5-6 papers.  The editors of this special issue will be **Hong-Linh Truong, Nanjangud Narendra, and Aditya Ghose.**
+The symposium calls for working papers. Authors should submit an extended abstract (maximum 3 pages for scientific track and 1 page for poster/demo track, both in Springer style) by the deadline through easychair.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the [Vietnam Journal of Computer Science](http://link.springer.com/journal/40595). This issue will publish 5-6 papers.  The editors of this special issue will be **Hong-Linh Truong, Nanjangud Narendra, and Aditya Ghose.**
 
 Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 
@@ -141,3 +141,16 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 ### Webmaster
 
 * Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
+
+### Sponsors
+
+<table class="sponsors" border="0" cellpadding="0" cellspacing="0" align="center" valign="center">
+    <tr>
+        <td>
+            <a href="https://southtelecom.vn/" target="_blank"><img src="https://southtelecom.vn/wp-content/uploads/2013/06/logo.png"></a>
+        </td>
+        <td>
+            <a href="http://svtech.com.vn/" target="_blank"><img src="http://www.svtech.com.vn/data/image/Hinhtrinh/SEO/SVtech_logo_tagline-01.jpg"></a>
+        </td>
+    </tr>
+</table>
