@@ -133,6 +133,9 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 
 ### Publicity and industry Liaison
 
+* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
+* Tien-Dung Cao, Tan Tao University, Vietnam
+
 ### Local organization
 
 * Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
