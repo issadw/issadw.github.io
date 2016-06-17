@@ -254,13 +254,9 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* .top .masthead {
-  background-color: #ffffff;
-} */
-
 .top .masthead nav {
   /* float: right; */
-  position: relative;
+  position: fixed;
   left: 19rem;
   margin-right: 40px; // @TODO: Vertically middle align
   margin-left: 40px;
