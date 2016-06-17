@@ -256,7 +256,7 @@ a.sidebar-nav-item:focus {
 
 .top .masthead nav {
   /* float: right; */
-  position: fixed;
+  position: relative;
   left: 19rem;
   margin-right: 40px; // @TODO: Vertically middle align
   margin-left: 40px;
