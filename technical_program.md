@@ -79,8 +79,8 @@ title: Technical Program
           <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
           <p>Tuyet-Trinh Vu,Hanoi University of Technology and Science, Vietnam</p>
           <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>
-    </td>
+    <!--/td>
   </tr>
-</table>
+</table-->
 
 
