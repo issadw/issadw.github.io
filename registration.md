@@ -3,6 +3,7 @@ layout: page
 title: Registration
 ---
 
+
 1. Pre-registration is required. No on-site registration will be accepted.
 
 2. Pre-registration will be accepted until `Friday, 29 July, 2016`.
