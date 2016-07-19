@@ -3,8 +3,7 @@ layout: page
 title: Technical Program
 ---
 
-## Keynote Speaker
-
+## Tenative Program
 
 <table class="tg">
   <tr>
@@ -12,75 +11,107 @@ title: Technical Program
     <th></th>
   </tr>
   <tr>
-    <td class="num">1.</td>
+    <td class="num"><time>08:30</time></td>
+    <td>
+      <div class="topic">Registration</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>09:00</time></td>
+    <td>
+      <div class="topic">Keynote</div>
+      <div class="author">Hong­Linh Truong</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>10:00</time></td>
+    <td>
+      <div class="topic">Talk 1: Smart Traffic: A Case Study for Developing IoT Application in Vietnam.</div>
+      <div class="author">Tran Vu Pham and Duc Hai Nguyen ­- HCMUT</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>10:30</time></td>
+    <td>
+      <div class="topic">Coffee Break</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>11:00</time></td>
+    <td>
+      <div class="topic">Talk 2: The Application of Internet of Things in a Shopper Recommender System.</div>
+      <div class="author">Jedidah Wanjiru Theuri and Lawrence Nderu ­Jomo Kenyatta - University of Agriculture and Technology, Kenya</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>11:30</time></td>
+    <td>
+      <div class="topic">Talk 3: Towards Verification and Testing of IoT.</div>
+      <div class="author">Tien-Dung Cao - HUT</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>12:00</time></td>
+    <td>
+      <div class="topic">Lunch</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>13:30</time></td>
+    <td>
+      <div class="topic">Talk 4: Towards Monitoring Framework for IoT Cloud Resources.</div>
+      <div class="author">Quang­-Ha Duong, Hieu­-Le, Binh­-Minh Nguyen and Tuyet­-Trinh Vu ­- HUST</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>14:00</time></td>
+    <td>
+      <div class="topic">Talk 5: A Composable Application Model for Cloud Marketplaces.</div>
+      <div class="author">Huu-Duc Nguyen and Hoang-Long Huynh - HUST</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>14:30</time></td>
+    <td>
+      <div class="topic">Talk 6: Title</div>
+      <div class="author">Huu-Hanh Hoang - Hue University</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>15:00</time></td>
+    <td>
+      <div class="topic">Coffee Break/Demo Session</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>16:00</time></td>
     <td>
       <div class="topic">
-          On Service Engineering Analytics for IoT Clouds - Techniques and New Directions
+        Panel discussion
+        <ul style="list-style-type:disc">
+          <li>IoT Services for Critical Problems in Vietnam</li>
+          <li>Sharing Resources for Edge Computing in Vietnam</li>
+        </ul>
       </div>
-      <div class="author">
-          Hong-Linh Truong, Distributed Systems Group TU Wien, Austria
-      </div>
+      <div class="author">Coordinator: Hong­-Linh Truong</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="num"><time>17:00</time></td>
+    <td>
+      <div class="topic">Closing</div>
     </td>
   </tr>
 </table>
 
+### Poster.
 
-## Scientific Track
+Posters will be put outside the seminar room during the workshop day.
 
+### Demo sessions.
 
-<p class="message">
-    To be updated...
-</p>
+1. Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework) - Duc­-Hung Le, TU­-Wien, Austria.
 
+2. Smart traffic system, Tran-­Vu Pham, HCMUT.
 
-## Industrial and Demo Track
-
-
-<table class="tg">
-  <tr>
-    <th style="width: 10%;"></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td class="num">1.</td>
-    <td>
-      <div class="topic">
-          Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework)
-      </div>
-      <div class="author">
-          Duc-Hung Le, Distributed Systems Group TU Wien, Austria.
-      </div>
-      <div class="abstract">
-        Effective resource management in IoT systems must represent IoT resources, edge-to-cloud network capabilities, and cloud resources at a high-level, while being able to link to diverse low-level types of IoT devices, network functions, and cloud computing infrastructures. Such resource management can foster the development and operation of emergent IoT Cloud systems. In this demo, we will introduce HINC, a distributed and extensible framework to harmonize information for virtualized IoT, network functions and cloud resource modelings. Using HINC, we can view heterogeneous resources with a comprehensive and high-level information model. We demonstrate HINC with a large-scale testbed to integrate some recent providers on IoT, Network functions and Cloud. Through the demo, we show some fundamental features toward an end-to-end slicing solution based on the trending network technologies.
-      </div>
-    </td>
-  </tr>
-</table>
-
-## Panel Discussion
-
-
-<table class="tg">
-  <tr>
-    <th style="width: 10%;"></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td class="num">1.</td>
-    <td>
-      <div class="topic">
-          IoT Services for Critical Problems in Vietnam
-      </div>
-      <div class="author">
-          <p style="font-weight:bold;">Moderator</p>
-          <p>Hong-Linh Truong, TU Wien, Austria</p>
-          <p style="font-weight:bold;">Members</p>
-          <p>Tien-Dung Cao, Tan Tao University, Vietnam</p>
-          <p>Huu-Hanh Hoang, Hue University, Vietnam</p>
-          <p>Tuyet-Trinh Vu,Hanoi University of Technology and Science, Vietnam</p>
-          <p>Binh-Minh Nguyen, Hanoi University of Technology and Science, Vietnam</p>
-    <!--/td>
-  </tr>
-</table-->
-
-
+### Download
