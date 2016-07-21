@@ -19,8 +19,8 @@ title: Technical Program
   <tr>
     <td class="num"><time>09:00</time></td>
     <td>
-      <div class="topic">Keynote</div>
-      <div class="author">Hong­Linh Truong</div>
+      <div class="topic">Keynote: On Service Engineering Analytics for IoT Clouds - Techniques and New Directions</div>
+      <div class="author">Hong­-Linh Truong, Distributed Systems Group, TU Wien, Austria</div>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ title: Technical Program
   <tr>
     <td class="num"><time>14:30</time></td>
     <td>
-      <div class="topic">Talk 6: Title</div>
+      <div class="topic">Talk 6: A Semantic Web approach for environmental data modelling for monitoring and prediction model</div>
       <div class="author">Huu-Hanh Hoang - Hue University</div>
     </td>
   </tr>
