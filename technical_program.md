@@ -9,7 +9,7 @@ title: Technical Program
   <tr>
     <th style="width: 10%;"></th>
     <th>
-    <div class="topic">Day 1 (4 August, 2016)</div>
+    <div class="topic">4 August, 2016 (Day 1)</div>
     </th>
   </tr>
   <tr>
@@ -22,7 +22,7 @@ title: Technical Program
     <td class="num"><time>09:00</time></td>
     <td>
       <div class="topic">Keynote</div>
-      <div class="author">Hong­Linh Truong -- TU­-Wien, Austria</div>
+      <div class="author">Hong­-Linh Truong -- TU­-Wien, Austria</div>
     </td>
   </tr>
   <tr>
