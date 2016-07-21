@@ -75,13 +75,8 @@ title: Technical Program
   <tr>
     <td class="num"><time>14:30</time></td>
     <td>
-<<<<<<< HEAD
       <div class="topic">Talk 6: A Semantic Web approach for environmental data modelling for monitoring and prediction model</div>
-      <div class="author">Huu-Hanh Hoang - Hue University</div>
-=======
-      <div class="topic">Talk 6: Title</div>
-      <div class="author">Huu-Hanh Hoang - Hue University, Vietnam</div>
->>>>>>> e61494b54de2bcaa9fbf90ea5e951436fd0ee6fc
+      <div class="author">Huu-Hanh Hoang - Hue University, Viet Nam</div>
     </td>
   </tr>
   <tr>
