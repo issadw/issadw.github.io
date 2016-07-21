@@ -8,7 +8,9 @@ title: Technical Program
 <table class="tg">
   <tr>
     <th style="width: 10%;"></th>
-    <th></th>
+    <th>
+    <div class="topic">Day 1 (4 August, 2016)</div>
+    </th>
   </tr>
   <tr>
     <td class="num"><time>08:30</time></td>
@@ -20,14 +22,14 @@ title: Technical Program
     <td class="num"><time>09:00</time></td>
     <td>
       <div class="topic">Keynote</div>
-      <div class="author">Hong­Linh Truong</div>
+      <div class="author">Hong­Linh Truong -- TU­-Wien, Austria</div>
     </td>
   </tr>
   <tr>
     <td class="num"><time>10:00</time></td>
     <td>
       <div class="topic">Talk 1: Smart Traffic: A Case Study for Developing IoT Application in Vietnam.</div>
-      <div class="author">Tran Vu Pham and Duc Hai Nguyen ­- HCMUT</div>
+      <div class="author">Tran Vu Pham and Duc Hai Nguyen ­- Ho Chi Minh University of Technology, Vietnam</div>
     </td>
   </tr>
   <tr>
@@ -47,7 +49,7 @@ title: Technical Program
     <td class="num"><time>11:30</time></td>
     <td>
       <div class="topic">Talk 3: Towards Verification and Testing of IoT.</div>
-      <div class="author">Tien-Dung Cao - HUT</div>
+      <div class="author">Tien-Dung Cao - Tan Tao University, Vietnam</div>
     </td>
   </tr>
   <tr>
@@ -60,21 +62,21 @@ title: Technical Program
     <td class="num"><time>13:30</time></td>
     <td>
       <div class="topic">Talk 4: Towards Monitoring Framework for IoT Cloud Resources.</div>
-      <div class="author">Quang­-Ha Duong, Hieu­-Le, Binh­-Minh Nguyen and Tuyet­-Trinh Vu ­- HUST</div>
+      <div class="author">Quang­-Ha Duong, Hieu­-Le, Binh­-Minh Nguyen and Tuyet­-Trinh Vu ­- Hanoi University of Science and Technology, Vietnam</div>
     </td>
   </tr>
   <tr>
     <td class="num"><time>14:00</time></td>
     <td>
       <div class="topic">Talk 5: A Composable Application Model for Cloud Marketplaces.</div>
-      <div class="author">Huu-Duc Nguyen and Hoang-Long Huynh - HUST</div>
+      <div class="author">Huu-Duc Nguyen and Hoang-Long Huynh - Hanoi University of Science and Technology, Vietnam</div>
     </td>
   </tr>
   <tr>
     <td class="num"><time>14:30</time></td>
     <td>
       <div class="topic">Talk 6: Title</div>
-      <div class="author">Huu-Hanh Hoang - Hue University</div>
+      <div class="author">Huu-Hanh Hoang - Hue University, Vietnam</div>
     </td>
   </tr>
   <tr>
@@ -93,7 +95,7 @@ title: Technical Program
           <li>Sharing Resources for Edge Computing in Vietnam</li>
         </ul>
       </div>
-      <div class="author">Coordinator: Hong­-Linh Truong</div>
+      <div class="author">Coordinator: Hong­-Linh Truong -- TU­-Wien, Austria</div>
     </td>
   </tr>
   <tr>
@@ -112,7 +114,7 @@ Posters will be put outside the seminar room during the workshop day.
 
 1. Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework) - Duc­-Hung Le, TU­-Wien, Austria.
 
-2. Smart traffic system, Tran-­Vu Pham, HCMUT.
+2. Smart traffic system, Tran-­Vu Pham, Ho Chi Minh University of Technology, Vietnam.
 
 ### Download.
 
