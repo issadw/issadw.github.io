@@ -3,7 +3,7 @@ layout: page
 title: Venue
 ---
 
-_ISSA-dw_ will be held in `Hanoi University of Science and Technology (HUST)`
+__ISSA-dw__ will be held in `Hanoi University of Science and Technology (HUST)`
 
 `Hanoi University of Science and Technology (HUST)`, founded in 1956, is one of the five oldest universities and the first largest technical university in Vietnam. Thanks to the first ranking in Vietnam technology training university, thousands of engineers have graduated and are now serving in key industrial and scientific areas in Vietnam. Many of them hold important positions in the government.
 
