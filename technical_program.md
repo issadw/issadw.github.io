@@ -21,14 +21,14 @@ title: Technical Program
   <tr>
     <td class="num"><time>09:00</time></td>
     <td>
-      <div class="topic">Keynote: On Service Engineering Analytics for IoT Clouds - Techniques and New Directions.<a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/truong-keynote-issa2016.pdf">  [Slide]</a></div>
+      <div class="topic">Keynote: On Service Engineering Analytics for IoT Clouds - Techniques and New Directions.<a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/truong-keynote-issa2016.pdf" download>  [Slide]</a></div>
       <div class="author">Hong­-Linh Truong - Distributed Systems Group, TU-Wien, Austria</div>
     </td>
   </tr>
   <tr>
     <td class="num"><time>10:00</time></td>
     <td>
-      <div class="topic">Talk 1: Smart Traffic: A Case Study for Developing IoT Application in Vietnam.<a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/st-e.pdf">  [Slide]</a></div>
+      <div class="topic">Talk 1: Smart Traffic: A Case Study for Developing IoT Application in Vietnam.<a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/st-e.pdf" download>  [Slide]</a></div>
       <div class="author">Tran Vu Pham and Duc Hai Nguyen ­- Ho Chi Minh University of Technology, Vietnam</div>
     </td>
   </tr>
@@ -89,7 +89,7 @@ title: Technical Program
     <td class="num"><time>16:00</time></td>
     <td>
       <div class="topic">
-        Panel discussion <a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/truong-issa2016-panel.pdf"> [Slide]</a>
+        Panel discussion <a href="https://github.com/issadw/issadw.github.io/blob/master/_refs/truong-issa2016-panel.pdf" download> [Slide]</a>
         <ul style="list-style-type:disc">
           <li>IoT Services for Critical Problems in Vietnam</li>
           <li>Sharing Resources for Edge Computing in Vietnam</li>
