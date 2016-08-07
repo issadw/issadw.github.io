@@ -133,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 55rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -260,7 +260,7 @@ a.sidebar-nav-item:focus {
   /* left: 19rem; */
   margin-right: 18px; // @TODO: Vertically middle align
   margin-left: 18px;
-  font-size: 22px;
+  font-size: 24px;
   background-color: #ffffff;
 
   @include mobile {
