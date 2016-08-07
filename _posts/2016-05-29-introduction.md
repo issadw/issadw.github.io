@@ -11,7 +11,7 @@ title: Introduction
 
 <hr>
 <div class="diy-slideshow">
-  <figure>
+  <figure class="show">
     <img src="http://script.tugo.com.vn/wp-content/uploads/H%C3%80-N%E1%BB%98I-1.jpg" style="width:100%">
     <figcaption>Ha Noi, VietNam</figcaption> 
   </figure>
