@@ -24,7 +24,7 @@ title: Introduction
     <figcaption>Hanoi University of Science and Technology</figcaption> 
   </figure>
   <figure>
-    <img src="http://lumi.vn/Cms_Data/Contents/Lumi/Media/Images/Internet-of-thing.png" style="width:100%">
+    <img src="http://xahoithongtin.com.vn/dataimages/201512/original/images1613774_Internet_of_Things.jpg" style="width:100%">
     <figcaption>Internet of Things</figcaption> 
   </figure>
   <span class="prev">&laquo;</span>
