@@ -133,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 55rem;
+    max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -258,22 +258,22 @@ a.sidebar-nav-item:focus {
   /* float: right; */
   position: relative;
   /* left: 19rem; */
-  margin-right: 18px; // @TODO: Vertically middle align
-  margin-left: 18px;
-  font-size: 24px;
+  margin-right: 16px; // @TODO: Vertically middle align
+  margin-left: 16px;
+  font-size: 23px;
   background-color: #ffffff;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 .top .masthead nav a {
-  margin-right : 15px;
-  margin-left: 15px;
+  margin-right : 14px;
+  margin-left: 14px;
   text-align: center;
   font-weight: 300;
   letter-spacing: 1px;
