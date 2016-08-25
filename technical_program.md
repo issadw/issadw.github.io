@@ -112,7 +112,7 @@ Posters will be put outside the seminar room during the workshop day.
 
 ### Demo sessions.
 
-1. Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework) - Duc­-Hung Le, TU­-Wien, Austria.
+1. Harmonizing Diverse Resource Information Across IoT, Network Functions and Clouds (HINC framework) - Duc­-Hung Le, TU­-Wien, Austria. [Download](https://github.com/issadw/issadw.github.io/raw/master/_refs/HINC-demo-ISSA2016.pdf)
 
 2. Smart traffic system, Tran-­Vu Pham, Ho Chi Minh University of Technology, Vietnam.
 
