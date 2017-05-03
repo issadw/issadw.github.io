@@ -10,8 +10,8 @@ permalink:        pretty
 title:            ISSA-DW
 tagline:          'ISSA-DW'
 description:      'The 2016 International Symposium on  IoT  Systems, Services and Analytics for Developing Worlds (ISSA-DW2016).'
-url:              http://issadw.github.io/2016
-baseurl:          /
+url:              http://issadw.github.io
+baseurl:          /2016
 
 author:
   name:           'Kien Nguyen'
