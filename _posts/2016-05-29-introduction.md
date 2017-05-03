@@ -3,9 +3,9 @@ layout: post
 title: Introduction
 ---
 
-<i class="fa fa-home fa-lg"></i><b> Location:</b> Hanoi University of Science and Technology (HUST), Hanoi, Vietnam.
+<i class="fa fa-home fa-lg"></i><b> Location:</b> Danang University of Technology, Danang, Vietnam.
 
-<i class="fa fa-clock-o fa-lg"></i><b> Time:</b>  4-5 August 2016
+<i class="fa fa-clock-o fa-lg"></i><b> Time:</b>  19 August 2017
 
 <i class="fa fa-newspaper-o fa-lg"></i><b> Content:</b> IoT  Systems, Services and Analytics for Developing Worlds
 
@@ -13,15 +13,15 @@ title: Introduction
 <div class="diy-slideshow">
   <figure class="show">
     <img src="http://script.tugo.com.vn/wp-content/uploads/H%C3%80-N%E1%BB%98I-1.jpg" style="width:100%">
-    <figcaption>Ha Noi, VietNam</figcaption> 
+    <figcaption>Da Nang, VietNam</figcaption> 
   </figure>
   <figure>
     <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11892176_594642940673733_3747139679302136741_n.jpg?oh=df3a4dc33dc406420eb2dc3a1b9bd61f&oe=57E3CD96&__gda__=1473659808_f9babe3516bf1d0b613b91d44e5b9454" style="width:100%">
-    <figcaption>Hanoi University of Science and Technology</figcaption> 
+    <figcaption>Danang University of Technology</figcaption> 
   </figure>
   <figure>
     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/11406960_570955123042515_678234339582409481_n.jpg?oh=8d3b0e22b26263e42920111e33fab3c5&oe=57E2FD47" style="width:100%">
-    <figcaption>Hanoi University of Science and Technology</figcaption> 
+    <figcaption>Danang University of Technology</figcaption> 
   </figure>
   <figure>
     <img src="http://xahoithongtin.com.vn/dataimages/201512/original/images1613774_Internet_of_Things.jpg" style="width:100%">
@@ -70,22 +70,20 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 ### Steering Committee
 
 * Hong-Linh Truong (chair), TU Wien, Austria
-* Aditya Ghose, University of Wollongong, Australia
-* Nam Thoai, Ho Chi Minh City University of Technology, Vietnam
 
 ### General Chair
 
-* Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
-* Aditya Ghose, University of Wollongong, Australia
+* Hoang-Huu Hanh, Hue University, Vietnam
+* Vo Trung Hung, University of Danang, Vietnam
 
 ### Program chairs
 
-* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
-* Nanjangud Narendra, Ericsson Research, Bangalore, India
+* Thanh-Binh Nguyen, Danang University, Vietnam
 * Tien-Dung Cao, Tan Tao University, Vietnam
 
 ### Program committee
 
+* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
 * Hoang-Huu Hanh, Hue University, Vietnam
 * Tran-Vu Pham, Ho Chi Minh City University of Technology, Vietnam
 * Minh-Quang Tran, Ho Chi Minh City University of Technology, Vietnam
@@ -97,21 +95,21 @@ Submission via [EasyChair](https://easychair.org/conferences/?conf=issadw2016)
 * Khanh-Hoa Dam, University of Wollongong, Australia
 * Thanh-Binh Nguyen, Danang University, Vietnam
 * Ha Huy Cuong Nguyen, Quang Nam University, Vietnam
-* Lawrence Nderu, Jomo Kenyatta University of Agriculture and Technology, Kenya
+* Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
 
 ### Publicity and industry Liaison
 
-* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
+* Thanh-Binh Nguyen, University of Danang, Vietnam
 * Tien-Dung Cao, Tan Tao University, Vietnam
 
 ### Local organization
 
-* Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
-* Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
+* Vo Trung Hung, University of Danang, Vietnam
+* Thanh-Binh Nguyen, University of Danang, Vietnam
 
 ### Webmaster
 
-* Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
+* Ho Phan Hieu, Danang University of Technology, Vietnam
 
 ### Sponsors
 

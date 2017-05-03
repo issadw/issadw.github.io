@@ -1,0 +1,43 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          ISSA<font size="6">-DW</font>
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <!-- {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" and node.title != "Organization" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %} -->
+
+      <!-- Prev sidebar -->
+      <!-- <a class="sidebar-nav-item{% if page.url == '/scientific_objectives/') %} active{% endif %}" href="{{ side.baseurl }}/scientific_objectives">Scientific Objectives</a>
+      <a class="sidebar-nav-item{% if page.url == '/submission_and_publication/') %} active{% endif %}" href="{{ side.baseurl }}/submission_and_publication">Submission and Publication</a>
+      <a class="sidebar-nav-item{% if page.url == '/registration/') %} active{% endif %}" href="{{ side.baseurl }}/registration">Registration</a>
+      <a class="sidebar-nav-item{% if page.url == '/organization/') %} active{% endif %}" href="{{ side.baseurl }}/organization">Organization</a> -->
+
+
+      <a class="sidebar-nav-item{% if page.url == '/technical_program/') %} active{% endif %}" href="{{ side.baseurl }}/technical_program">Technical Program</a>
+      <span class="sidebar-nav-item">Organized by <a href="http://soict.hust.edu.vn" target="_blank">HUST</a>, <a href="http://ttu.edu.vn" target="_blank">TTU</a>, <a href="http://vitalconet.github.io" target="_blank">VitalConet</a>, <a href="http://alpslab.github.io">ASEA-UNINET AlpsLab project</a> and <a href="http://haivanuni.github.io/haivan">ASEA-UNINET HAIVAN project</a></span>
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

@@ -3,11 +3,11 @@ layout: page
 title: Important Dates
 ---
 
-* Extended abstraction submission: `30 June, 2016`
-* Accepted notification: `17 July, 2016`
-* Symposium: `4-5 Aug 2016`
-* Full paper submission for special issue: `30 September 2016`
-* First Notification: `30 November, 2016` (accepted, minor or major accepted, rejected).
-* Second version: `30 December, 2016`
-* Final Notification: `31 January, 2017`
-* Publication: `Feb-Mar, 2017`
+* Extended abstraction submission: `15 July, 2017`
+* Accepted notification: `31 July, 2016`
+* Symposium: `19 Aug 2016`
+* Full paper submission for special issue: `30 September 2017`
+* First Notification: `30 November, 2017` (accepted, minor or major accepted, rejected).
+* Second version: `30 December, 2017`
+* Final Notification: `31 January, 2018`
+* Publication: `Feb-Mar, 2018`
