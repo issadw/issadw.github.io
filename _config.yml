@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# permalink:        /:title/
+
+# Setup
+title:            ISSA-DW
+tagline:          'ISSA-DW'
+description:      'The University of DaNang.'
+url:              https://issadw.github.io
+baseurl:          /
+
+author:
+  name:           'Kien Nguyen'
+  url:            https://twitter.com/ntk148v
+
+paginate:         10
+
+# Custom vars
+version:          1.1.0
+
+github:
+  repo:           https://github.com/issadw/issadw.github.io/
