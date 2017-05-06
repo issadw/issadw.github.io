@@ -16,15 +16,15 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
+      <a class="sidebar-nav-item" href="{{ site.url }}/2016">ISSADW-2016</a>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
 <!--       <a class="sidebar-nav-item{% if page.url == '/technical_program/') %} active{% endif %}" href="{{ site.baseurl }}/technical_program">Technical Program</a>
-      <span class="sidebar-nav-item">Organized by <a href="http://soict.hust.edu.vn" target="_blank">HUST</a>, <a href="http://ttu.edu.vn" target="_blank">TTU</a>, <a href="http://vitalconet.github.io" target="_blank">VitalConet</a>, <a href="http://alpslab.github.io">ASEA-UNINET AlpsLab project</a> and <a href="http://haivanuni.github.io/haivan">ASEA-UNINET HAIVAN project</a></span>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <span class="sidebar-nav-item">Organized by <a href="http://soict.hust.edu.vn" target="_blank">HUST</a>, <a href="http://ttu.edu.vn" target="_blank">TTU</a>, <a href="http://vitalconet.github.io" target="_blank">VitalConet</a>, <a href="http://alpslab.github.io">ASEA-UNINET AlpsLab project</a> and <a href="http://haivanuni.github.io/haivan">ASEA-UNINET HAIVAN project</a></span> -->
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
