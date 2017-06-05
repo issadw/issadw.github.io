@@ -39,7 +39,7 @@ The symposium will provide **free registration**. Lunch will be provided free fo
 
 ## Submission and Publication
 
-The symposium calls for working papers of both **scientific track and poster/demo track**. Authors should submit an extended abstract (maximum 3 pages for scientific track and 1 page for poster/demo track) by the deadline through easychair.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the Vietnam Journal of Computer Science.
+The symposium calls for working papers of both **scientific track and poster/demo track**. Authors should submit an extended abstract (maximum 3 pages for scientific track and 1 page for poster/demo track) by the deadline through email.  Accepted abstracts and slides will be made available in the website. All accepted working papers in the symposium will be invited to submit a full paper for considering in a special issue in the Vietnam Journal of Computer Science.
 
 Submission via e-mail and in PDF format to: Thanh-Binh Nguyen ([ntbinh@dut.udn.vn](mailto:ntbinh@dut.udn.vn)) and/or Tien-Dung Cao ([dung.cao@ttu.edu.vn](mailto:dung.cao@ttu.edu.vn))
 
